@@ -20,16 +20,20 @@ This repo is like my dev cheat sheet. It spills the beans on my fave tools, codi
   - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) (should be built into vscode)
   - [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) (for pretty markdown)
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) (for HTML)
+- **Json**:
+  - [settings.json](./vscode/settings.json)
+  - [keybindings.json](./vscode/keybindings.json)
 
 #### [Git](https://git-scm.com/) (obvs)
 
 #### [Windows terminal (pwsh)](https://aka.ms/terminal) (powerful terminal, hence the name)
 
 - **Config**:
-  - [oh-my-posh](https://github.com/zurlyy/posh-theme)
-  - [$PROFILE](./powershell/profile.ps1)
-  - terminal-icons
-  - [CaskaydiaMono Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaMono.zip)
+  - [oh-my-posh](https://github.com/zurlyy/posh-theme) (simple, catppuccin style theme)
+  - [$PROFILE](./powershell/profile.ps1) (some light config, used to be heavier but optimised for performance)
+  - [terminal-icons](https://github.com/devblackops/Terminal-Icons) (icons 😻)
+  - [CaskaydiaMono Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaMono.zip) (every icon you could imagine 😻)
+  - [settings.json](./terminal/settings.json)
 
 ## Technologies ⚙️
 

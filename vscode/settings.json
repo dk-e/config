@@ -1,0 +1,85 @@
+{
+    "workbench.startupEditor": "none",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "catppuccin-perfect-latte",
+    "material-icon-theme.folders.theme": "specific",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "explorer.confirmDragAndDrop": false,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true, 
+      "**/.settings": true,
+      "**/.factorypath": true
+    },
+    "editor.inlineSuggest.enabled": true,
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.guides.bracketPairs": true,
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.env.windows": {},
+    "console-ninja.featureSet": "Community",
+    "window.openFoldersInNewWindow": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "files.associations": {
+      ".env*": "dotenv"
+    },
+    "editor.tokenColorCustomizations": {
+      "[*Light*]": {
+        "textMateRules": [
+          {
+            "scope": "ref.matchtext",
+            "settings": {
+              "foreground": "#000"
+            }
+          }
+        ]
+      },
+      "[*Dark*]": {
+        "textMateRules": [
+          {
+            "scope": "ref.matchtext",
+            "settings": {
+              "foreground": "#fff"
+            }
+          }
+        ]
+      },
+      "textMateRules": []
+    },
+    "redhat.telemetry.enabled": true,
+    "dotenv.enableAutocloaking": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.fontFamily": "CaskaydiaMono Nerd Font Mono",
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false
+    },
+    "githubPullRequests.pullBranch": "never",
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.unicodeHighlight.allowedLocales": {
+      "es": true
+    },
+    "markdown-preview-enhanced.previewTheme": "one-dark.css",
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "terminal.integrated.cursorStyle": "line",
+    "markdown-preview-enhanced.codeBlockTheme": "auto.css",
+  }
