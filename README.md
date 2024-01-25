@@ -53,7 +53,7 @@ This repo is like my dev cheat sheet. It spills the beans on my fave tools, codi
 #### Extras
 
 - [Vercel](https://vercel.com/) (easy, reliable hosting)
-- Package manager `pnpm` (blazingly fast + save storage)
+- [Package manager](https://pnpm.io/installation) `pnpm` (blazingly fast + save storage)
 - [Insomnia](https://insomnia.rest/) (API Testing)
 - [Catppuccin](https://github.com/catppuccin/catppuccin) (pastel, strain free colour palettes 🤤)
 - Learning resources:
