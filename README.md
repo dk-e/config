@@ -28,6 +28,8 @@ This repo is like my dev cheat sheet. It spills the beans on my fave tools, codi
 - **Config**:
   - [oh-my-posh](https://github.com/zurlyy/posh-theme)
   - [$PROFILE](./powershell/profile.ps1)
+  - terminal-icons
+  - [CaskaydiaMono Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaMono.zip)
 
 ## Technologies ⚙️
 
