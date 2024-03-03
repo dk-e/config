@@ -69,7 +69,7 @@ This repo is like my dev cheat sheet. It spills the beans on my fave tools, codi
 #### PC Specs
 
 - **CORSAIR 550W** (Power Supply)
-- **AMD Ryzen 5 3600** (CPU)
+- **AMD Ryzen 5 2600** (CPU)
 - **GIGABYTE B450M DS3H** (Motherboard)
 - **Corsair Vengeance RGB PRO 16GB** (RAM)
 - **Corsair 4000 RGB** (Case)
